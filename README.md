@@ -1,2 +1,2 @@
 # cryoto_currency_Automatic
-This is automatic trading bot for crypto.
+This is an automatic trading bot for crypto.
